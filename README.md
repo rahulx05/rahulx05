@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rahul !</h1>
+<h1 align="center">Hello 👋, I'm Rahul!</h1>
 <h3 align="center">🔹 I am expanding my skills in Data structure and Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulx05&label=Profile%20views&color=0e75b6&style=flat" alt="rahulx05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulx05" alt="rahulx05" /></a> </p>
 
-- 🔭 I’m currently senior executive **DSC NIT SURAT**
+- 🔭 I’m currently a Senior Executive **Developer Student Club, NIT SURAT**
 
 - 🌱 I’m currently learning **MERN STACK**
 
