@@ -1,7 +1,9 @@
 <h1 align="center">Hello👋, I'm Rahul!</h1>
 <h2 align="left">🚀About Me</h2>
-<h3>I am a Full Stack Web Developer, currently pursuing Electronics and Communication Engineering at Sardar Vallabhbhai National Institute of Technology, Surat. I have passion for applying my Technical skills in the ever-evolving world of Technology and am currently gaining valuable experience in Programming Web Development.</h3>
-<h3 align="center">🔹 I am expanding my skills in Data structure and Algorithms.</h3>
+<h3>I am a Full Stack Web Developer, currently pursuing Electronics and Communication Engineering at Sardar Vallabhbhai National Institute of Technology, Surat. I have passion for applying my Technical skills in the ever-evolving world of Technology and am currently gaining valuable experience in Programming and Web Development.</h3>
+
+<h2 align="left">📚 Currently Learning</h2>
+<h3 align="center">🔹 I am currently diving deep into the fascinating world of Data Structures and Algorithms (DSA). I believe that mastering DSA is crucial for solving complex problems efficiently and writing optimized code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulx05&label=Profile%20views&color=0e75b6&style=flat" alt="rahulx05" /> </p>
 
